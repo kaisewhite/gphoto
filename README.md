@@ -2,7 +2,7 @@
 
 The goal of this project was to upload pictures from a digital camera to an AWS S3 bucket over cellular using a raspberry pi and Hollogram Nova. 
 
-I decided to creat an access point, utilizing a micro sized computer (Raspberry Pi Zero) and an open source cellular USB modem (Hologram Nova) to transmit data and images from a digital camera over a cellular network (SSH) directly to an AWS S3 bucket using Shell and Python scripts.
+I decided to create an access point, utilizing a micro sized computer (Raspberry Pi Zero) and an open source cellular USB modem (Hologram Nova) to transmit data and images from a digital camera over a cellular network (SSH) directly to an AWS S3 bucket using Shell and Python scripts.
 
 Requirements
 1. gphoto2
