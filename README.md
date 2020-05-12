@@ -12,6 +12,12 @@ Requirements
 5. Hollogram Nova
 6. AWS CLI
 
+# Instructions
+1. Install Ubuntu on Raspi
+2. Install & configure AWS CLI
+3. Install gPhoto2 & libgphoto2
+
+
 gPhoto2 is a free, redistributable, ready to use set of digital camera software applications for Unix-like systems, written by a whole team of dedicated volunteers around the world. It supports more than 2500 cameras
 
 libgphoto2 is freely available and distributed under the terms of the GNU LGPL.; the other gphoto programs are freely available and distributed under the terms of the GNU GPL.
