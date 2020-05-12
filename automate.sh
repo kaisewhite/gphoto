@@ -28,10 +28,7 @@ mkdir -p "${user_id}"/"${backup_dir}"
 cd $user_id/$backup_dir
 
 
-# Configure AWS access
-#aws configure set region us-east-2
-#aws configure set aws_access_key_id AKIAI5JPTEATNX3RWIGQ
-#aws configure set aws_secret_access_key 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
+
 
 # Use the s3 mb command to create a bucket. Bucket names must be globally unique and 
 # should be DNS compliant. Bucket names can contain lowercase letters, numbers, hyphens, and periods. 
